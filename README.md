@@ -36,7 +36,7 @@ following four functions:
   arguments: an `employee` `Object`, a `key` and a `value`. This function should
   not mutate the `employee`; it should return a _new_ `Object` that has an
   updated `value` for the `key` passed in. **Hint**: use the spread operator!
-- `destructivelyUpdateEmployeeWithKeyAndValue()`: this function should work the
+- `destructiv()`: this function should work the
   same as `updateEmployeeWithKeyAndValue()` but it _should_ mutate the
   `employee` `Object` passed in.
 - `deleteFromEmployeeByKey()`: this function should take in a `employee`
